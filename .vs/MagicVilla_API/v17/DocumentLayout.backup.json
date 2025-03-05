@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\modelos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\controllers\\numerovillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:controllers\\numerovillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +23,40 @@
       "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\repositorios\\numerovillarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:repositorios\\numerovillarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\repositorios\\irepositorio\\inumerovillarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:repositorios\\irepositorio\\inumerovillarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\modelos\\dto\\numerovillaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\dto\\numerovillaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\modelos\\dto\\numerovillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\dto\\numerovillacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\modelos\\dto\\numerovilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\dto\\numerovilladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\modelos\\numerovilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\numerovilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\repositorios\\villarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:repositorios\\villarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\repositorios\\irepositorio\\ivillarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:repositorios\\irepositorio\\ivillarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\modelos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\magicvilla_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -39,8 +71,8 @@
       "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:modelos\\dto\\villacreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|c:\\users\\doomslayer\\source\\repos\\magicvilla_api\\migrations\\20250304190120_agregarnumerovillatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C20B434F-EABC-4F9A-BC69-8DB21ADC16D3}|MagicVilla_API.csproj|solutionrelative:migrations\\20250304190120_agregarnumerovillatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,6 +91,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "NumeroVillaController.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Controllers\\NumeroVillaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NumeroVillaController.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Controllers\\NumeroVillaController.cs",
+              "RelativeToolTip": "Controllers\\NumeroVillaController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:41:51.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumeroVillaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\NumeroVillaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\NumeroVillaRepositorio.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\NumeroVillaRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\NumeroVillaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:36:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INumeroVillaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\IRepositorio\\INumeroVillaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorios\\IRepositorio\\INumeroVillaRepositorio.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\IRepositorio\\INumeroVillaRepositorio.cs",
+              "RelativeToolTip": "Repositorios\\IRepositorio\\INumeroVillaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:34:28.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumeroVillaUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\NumeroVillaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Modelos\\Dto\\NumeroVillaUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\NumeroVillaUpdateDTO.cs",
+              "RelativeToolTip": "Modelos\\Dto\\NumeroVillaUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:57:21.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumeroVillaCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\NumeroVillaCreateDTO.cs",
+              "RelativeDocumentMoniker": "Modelos\\Dto\\NumeroVillaCreateDTO.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\NumeroVillaCreateDTO.cs",
+              "RelativeToolTip": "Modelos\\Dto\\NumeroVillaCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumeroVillaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\NumeroVillaDTO.cs",
+              "RelativeDocumentMoniker": "Modelos\\Dto\\NumeroVillaDTO.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\NumeroVillaDTO.cs",
+              "RelativeToolTip": "Modelos\\Dto\\NumeroVillaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:51:43.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NumeroVilla.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\NumeroVilla.cs",
+              "RelativeDocumentMoniker": "Modelos\\NumeroVilla.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\NumeroVilla.cs",
+              "RelativeToolTip": "Modelos\\NumeroVilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:58:10.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "APIResponse.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\APIResponse.cs",
               "RelativeDocumentMoniker": "Modelos\\APIResponse.cs",
@@ -66,61 +189,87 @@
               "RelativeToolTip": "Modelos\\APIResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T23:50:44.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T23:50:44.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Datos\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Datos\\ApplicationDbContext.cs",
               "RelativeToolTip": "Datos\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:51:05.21Z"
+              "WhenOpened": "2025-01-09T16:51:05.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T18:41:18.471Z"
+              "WhenOpened": "2025-01-08T18:41:18.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "VillaController.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Controllers\\VillaController.cs",
               "RelativeDocumentMoniker": "Controllers\\VillaController.cs",
               "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Controllers\\VillaController.cs",
               "RelativeToolTip": "Controllers\\VillaController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAIoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-04T21:26:58.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "VillaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\VillaRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\VillaRepositorio.cs",
               "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\VillaRepositorio.cs",
               "RelativeToolTip": "Repositorios\\VillaRepositorio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T03:00:21.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MappingConfig.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\MappingConfig.cs",
+              "RelativeToolTip": "MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:52:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250304190120_AgregarNumeroVillaTabla.cs",
+              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Migrations\\20250304190120_AgregarNumeroVillaTabla.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250304190120_AgregarNumeroVillaTabla.cs",
+              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Migrations\\20250304190120_AgregarNumeroVillaTabla.cs",
+              "RelativeToolTip": "Migrations\\20250304190120_AgregarNumeroVillaTabla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:01:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IVillaRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Repositorios\\IRepositorio\\IVillaRepositorio.cs",
               "RelativeDocumentMoniker": "Repositorios\\IRepositorio\\IVillaRepositorio.cs",
@@ -132,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "VillaCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\VillaCreateDto.cs",
               "RelativeDocumentMoniker": "Modelos\\Dto\\VillaCreateDto.cs",
@@ -144,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "VillaDto.cs",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\Modelos\\Dto\\VillaDto.cs",
               "RelativeDocumentMoniker": "Modelos\\Dto\\VillaDto.cs",
@@ -156,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "MagicVilla_API.csproj",
               "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\MagicVilla_API.csproj",
               "RelativeDocumentMoniker": "MagicVilla_API.csproj",
@@ -165,18 +314,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-13T03:00:19.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "MappingConfig.cs",
-              "ToolTip": "C:\\Users\\DOOMSLAYER\\source\\repos\\MagicVilla_API\\MappingConfig.cs",
-              "RelativeToolTip": "MappingConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T23:52:14.362Z"
             }
           ]
         }

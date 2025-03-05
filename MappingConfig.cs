@@ -12,6 +12,9 @@ namespace MagicVilla_API
             CreateMap<VillaDto, Villa>();//Son opciones individuales inversas
             CreateMap<Villa, VillaCreateDto>().ReverseMap();// O solo se puede usar una opcion que combina las dosopciones en una sola
             CreateMap<Villa, VillaUpdateDto>().ReverseMap();
+            CreateMap<NumeroVilla, NumeroVillaDTO>().ReverseMap();
+            CreateMap<NumeroVilla, NumeroVillaCreateDTO>().ReverseMap();
+            CreateMap<NumeroVilla, NumeroVillaUpdateDTO>().ReverseMap();
         }
     }
 }
